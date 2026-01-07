@@ -1,3 +1,5 @@
+DROP TABLE IF EXISTS vehicule_import;
+
 CREATE TABLE vehicule_import (
     id INT,
     marque TEXT,
